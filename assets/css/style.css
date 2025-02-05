@@ -6,3 +6,6 @@
 @import url(variables.css);
 @import url(layout.css);
 @import url(header.css);
+
+/* las mediaquerys.css siempre tiene que ser el ultimo css importado */
+@import url(mediaquerys.css);
