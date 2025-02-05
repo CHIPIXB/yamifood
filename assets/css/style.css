@@ -1,0 +1,7 @@
+@import url(reset.css);
+/* cargamos font-awesome */
+
+/* cargamos la fuente de google font arbtus slab, athiti 400,500,600 */
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Athiti:wght@400;500;600&display=swap');
+@import url(variables.css);
+@import url(layout.css);
