@@ -1,0 +1,27 @@
+span{
+    color: var(--primary-color);
+}
+.about{
+    width:90vw;
+    text-align: center;
+    p{
+        padding: 10px;
+        color: #666;
+        margin-bottom: 10px;
+    }
+}
+
+.about img{
+    border-top: 10px solid var(--primary-color);
+    border-left: 10px solid var(--primary-color);
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+    margin: 1.25rem;
+    margin-top: 50px 10px 50px 20px;
+}
+h2{
+    font-size: 1.5rem;
+}
+.about h4{
+    margin: 15px;
+}
