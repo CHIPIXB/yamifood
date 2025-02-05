@@ -9,3 +9,4 @@
 
 /* las mediaquerys.css siempre tiene que ser el ultimo css importado */
 @import url(mediaquerys.css);
+@import url(hero.css);
