@@ -15,4 +15,9 @@
     header nav ul a{
         padding: 10px 20px;
     }
+    .about{
+        display: flex;
+        max-width: 75rem;
+        margin: 0 auto;
+    }
 }
