@@ -1,5 +1,19 @@
 #contact {
     background-color: var(--primary-color);
+<<<<<<< HEAD
+=======
+    padding-bottom: 20px;
+    .mapa{
+        margin-top: 20px;
+    }
+    .icons{
+        display: flex;
+        justify-content: space-around;
+        span{
+            display: none;
+        }
+    }
+>>>>>>> develop
 }
 footer{
     background-color: black;
@@ -16,4 +30,8 @@ footer{
     ul li{
         display: inline-block;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> develop
