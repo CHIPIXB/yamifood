@@ -31,7 +31,7 @@
 
 #gallery .grid article:hover{
     .content{
-        transform: translateY(-95px);
+        transform: translateY(-5.9375rem);
     }
     img{
         transform: scale(1.15) rotateZ(7deg);
