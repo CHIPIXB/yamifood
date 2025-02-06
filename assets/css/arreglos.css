@@ -1,0 +1,16 @@
+.icons{
+    display: flex;
+    justify-content: space-around;
+
+    span{
+        display: none;
+    }
+}
+
+i{
+    padding: 15px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: white;
+    color: var(--primary-color);
+}

@@ -30,6 +30,13 @@
         #gallery .grid{
         grid-template-columns: repeat(3, 1fr);
         }
+    #contact .icons span{
+        display: inline;
+    }
+    #contact .icons a{
+        color: white;
+        text-decoration: none;
+    }
 }
 
 
