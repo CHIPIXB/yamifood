@@ -4,6 +4,7 @@ header {
     box-shadow: 0rem 0.0625rem 0.4375rem rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0rem;
+    z-index: 1;
 }
 header .hamburguer {
     width: 3.125rem;
