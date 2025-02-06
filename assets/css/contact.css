@@ -1,0 +1,19 @@
+#contact {
+    background-color: var(--primary-color);
+}
+footer{
+    background-color: black;
+    color: white;
+    .container{
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 0px;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    ul li{
+        display: inline-block;
+    }
+}

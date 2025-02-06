@@ -10,6 +10,6 @@
 @import url(about.css);
 @import url(calltoaction.css);
 @import url(gallery.css);
-@import url(map.css);
+@import url(contact.css);
 /* las mediaquerys.css siempre tiene que ser el ultimo css importado */
 @import url(mediaquerys.css);
