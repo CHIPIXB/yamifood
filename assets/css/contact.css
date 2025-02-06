@@ -1,0 +1,30 @@
+#contact {
+    background-color: var(--primary-color);
+    padding-bottom: 20px;
+    .mapa{
+        margin-top: 20px;
+    }
+    .icons{
+        display: flex;
+        justify-content: space-around;
+        span{
+            display: none;
+        }
+    }
+}
+footer{
+    background-color: black;
+    color: white;
+    .container{
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 0px;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    ul li{
+        display: inline-block;
+    }
+}
